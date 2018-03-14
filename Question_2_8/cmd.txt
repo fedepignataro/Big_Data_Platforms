@@ -1,0 +1,1 @@
+hadoop jar C:\Users\Andre\Documents\Final_BDAlgo\q2.8\Hist.jar history.History_info  C:\Users\Andre\Documents\Final_BDAlgo\q2.8\isd-history.txt C:\Users\Andre\Documents\Final_BDAlgo\q2.8\out.txt
